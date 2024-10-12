@@ -1,4 +1,6 @@
 Login System in Bash
+
+
 This project is a simple command-line login system written in Bash. It allows users to log in using their email and password, validating their credentials against a CSV file. Additionally, the system ensures that users cannot log in multiple times concurrently.
 
 Features
